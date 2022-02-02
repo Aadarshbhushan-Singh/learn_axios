@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "id": 2,
+      "name": "StudentD",
+      "email": "student_d@gmail.com",
+      "country": "Nepal"
+    },
+    {
+      "id": 3,
+      "name": "StudentD",
+      "email": "student_d@gmail.com",
+      "country": "Nepal"
+    },
+    {
+      "name": "Student Umesh",
+      "email": "student_u@gmail.com",
+      "country": "Nepal",
+      "id": "6"
+    },
+    {
+      "id": "1",
+      "name": "Pranjal Gupta",
+      "email": "pranjal@gmail.com",
+      "country": "Nepal"
+    }
+  ]
+}
